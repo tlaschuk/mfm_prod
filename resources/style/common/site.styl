@@ -1,0 +1,142 @@
+@import "gui"
+
+global-reset()
+
+*
+    box-sizing      : inherit
+    text-size-adjust: 100%
+    text-rendering  : optimizeLegibility
+    font-smoothing  : grayscale
+    cursor          : default
+    user-select     : none
+    &:before
+    &:after
+        box-sizing: inherit
+
+::-webkit-scrollbar
+    width           : 12px
+    background-color: color_main-dark
+
+::-webkit-scrollbar-thumb
+    background-color: color_accent-light
+
+html
+    height     : 100%
+    min-height : 100%
+    box-sizing : border-box
+
+body
+    height     : "calc(100% - %s)" % (header_height + footer_height)
+    margin-top : header_height
+    font       : 0 "Open Sans", sans-serif
+    font-weight: font_weight-light
+    color      : font_color-light
+    overflow-y : scroll
+    & #content
+        min-height: 100%
+
+p
+    line-height: font_size-normal + 6px
+    font-size  : font_size-normal
+    text-align : justify
+    a
+        text-decoration: underline
+
+h1
+    font-size     : font_size-large
+    font-weight   : font_weight-heavy
+    text-transform: uppercase
+
+h6
+    line-height: font_size-small + 6px
+    font-size  : font_size-small
+
+a
+    color          : font_color-light
+    text-decoration: initial
+    cursor         : pointer
+    transition     : color time_fast
+    &:hover
+        color: font_color-medium
+
+strong
+    font-weight: bold
+    color      : color_accent-light
+
+press
+    display         : inline-block
+    height          : 48px
+    width           : 120px
+    line-height     : @height
+    font-size       : font_size-normal
+    font-weight     : font_weight-medium
+    text-align      : center
+    text-transform  : uppercase
+    background-color: color_accent-normal
+    cursor          : pointer
+    transition      : background-color time_fast
+    &:hover
+    &.selected
+        background-color: color_accent-light
+    & a
+        display: block
+        height : 100%
+        width  : 100%
+        &:hover
+            color: inherit
+
+row
+    display: flex
+    padding: 0 20%
+    &:nth-child(even)
+        background-color: color_main-medium
+    & div
+    & p
+        align-items: stretch
+        transition : opacity time_normal
+    & div
+        width: row_image-width
+        &.numbering
+            display        : flex
+            justify-content: center
+            align-items    : center
+            font-size      : font_size-numbering
+            font-weight    : font_weight-heavy
+    & p
+        width  : "calc(100% - %s)" % row_image-width
+        padding: 60px 0
+        &.noimage
+            width: 100%
+
+
+group
+    display : block
+    & .group_title
+        width         : 100%
+        font-size     : font_size-normal
+        font-weight   : font_weight-medium
+        text-transform: uppercase
+        text-align    : center
+        & p
+            padding   : 60px 0
+            text-align: center
+            background: rgba(32, 32, 32, .8)
+            cursor    : pointer
+            transition: background time_fast
+            &:hover
+            &.hovered
+                background: rgba(32, 32, 32, .6)
+    & .group_content
+        display       : block
+        margin        : 0 10%
+        text-align    : center
+        overflow      : hidden
+        transition    : height time_normal ease-in-out
+        &.notransition
+            transition: none
+
+.hidden
+    opacity: 0
+
+
+

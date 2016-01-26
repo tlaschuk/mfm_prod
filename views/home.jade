@@ -1,0 +1,16 @@
+extends /views/common/layout.jade
+
+block css
+  link(rel="stylesheet" href="/style/home.css")
+
+block js
+  script(type="text/javascript" src="//www.youtube.com/iframe_api" defer)
+  script(type="text/javascript" src="/javascripts/home.js" defer)
+
+block content
+  row#row_video
+    .hidden#player
+  each entry, index in content
+    row(id="row_#{index}")
+      .hidden
+      p.hidden!= entry

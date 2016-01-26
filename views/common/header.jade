@@ -1,0 +1,9 @@
+header
+  h1= header.title
+  nav
+    each section in header.sections
+      press(id="header_nav-#{section}")
+        if section == "blog"
+          a(href="http://mapleflagmissions.blogspot.ca/" target="_blank")= section
+        else
+          a(href="/#{section}")= section

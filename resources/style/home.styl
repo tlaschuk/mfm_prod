@@ -1,0 +1,24 @@
+@import "common\gui"
+
+#row_video
+    padding: 60px
+    & iframe
+    & div
+        @media (min-width: 0)
+            height: 480px
+            width : 853px
+        @media (min-width: 1440px)
+            height: 720px
+            width : 1280px
+
+#player
+    display   : block
+    margin    : 0 auto
+    transition: opacity time_slow
+
+#row_maple div
+    background: url("../../images/home/maple.png") no-repeat center center/80%
+
+#row_dcs div
+    background: url("../../images/home/dcs.png") no-repeat center center/80%
+

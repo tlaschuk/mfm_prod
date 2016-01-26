@@ -1,0 +1,22 @@
+@import "common\gui"
+
+.faq
+    margin : 0 10%
+    padding: 12px 0
+    &:not(:last-child)
+        border-bottom: 1px solid color_main-medium
+
+.faq_question
+    padding   : 12px 0
+    color     : font_color-medium
+    cursor    : pointer
+    transition: padding time_fast ease-in-out
+    &:hover
+        padding-left: 12px
+
+.faq_answer
+    max-height: 200px
+    overflow  : hidden
+    transition: max-height time_fast ease-in-out
+    &.closed
+        max-height: 0

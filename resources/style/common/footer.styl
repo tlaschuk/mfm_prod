@@ -1,0 +1,24 @@
+@import "gui"
+
+footer
+    position        : relative
+    z-index         : 1
+    height          : 96px
+    width           : 100%
+    background-color: color_accent-normal
+
+#footer_content
+    height     : 100%
+    margin-left: 20%
+    padding-top: 18px
+
+.footer_meta
+    absolute: bottom left
+    width   : 100%
+    color   : font_color-medium
+    & h6
+        padding: 12px
+        &:nth-of-type(1)
+            float: left
+        &:nth-of-type(2)
+            float: right

@@ -1,0 +1,15 @@
+extends /views/common/layout.jade
+
+block css
+  link(rel="stylesheet" href="/style/license.css")
+
+block js
+  script(type="text/javascript" src="/javascripts/license.js" defer)
+
+block content
+  row#row-intro
+    p.noimage.hidden!= content.intro
+  each stage, index in content.list
+    row
+      .numbering.hidden= index+1
+      p.hidden!= stage

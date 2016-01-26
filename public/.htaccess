@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
+RewriteRule ^index.php /missions [R=301]
+RewriteRule ^index.html /missions [R=301]
+RewriteRule ^$ /missions [R=301]
