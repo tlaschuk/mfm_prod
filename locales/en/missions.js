@@ -24,6 +24,10 @@ var missions =
             "type" : "air"
             },
             {
+            "name": "Su-33 flanker-d",
+            "type": "air"
+            },
+            {
             "name" : "MiG-29 fulcrum",
             "type" : "air"
             },
@@ -111,7 +115,7 @@ var missions =
                 [
                 {
                 "name"        : "Campaign",
-                "description" : "A 12 mission campaign that tests your ability to qualify for flying the A-10A Warthog.",
+                "description" : "A 12 mission campaign that tests your ability to qualify for flying the A-10A Warthog. Includes printable A-10A Amplified Checklist pdf in A5 format.",
                 "image"       : "bftc.jpg",
                 "file"        : "DCSWA10A_CMP01.V1.3.miz",
                 "updated"     : "20-06-2015",
@@ -155,7 +159,7 @@ var missions =
                 [
                 {
                 "name"        : "Campaign",
-                "description" : "A 12 mission campaign that tests your ability to qualify for flying the A-10C Warthog.",
+                "description" : "A 12 mission campaign that tests your ability to qualify for flying the A-10C Warthog. Includes printable A-10C Amplified Checklist pdf in A5 format.",
                 "image"       : "bftc.jpg",
                 "file"        : "DCSWA10C_CMP01.V1.4.miz",
                 "updated"     : "12-07-2015",
@@ -200,7 +204,7 @@ var missions =
                 [
                 {
                 "name"        : "Campaign",
-                "description" : "A 10 mission campaign that tests your ability to qualify for flying the A-10C Warthog. You need both Part A and Part B to play this campaign. Includes printable A-10 Amplified Checklist pdf in A5 format.",
+                "description" : "A 10 mission campaign that tests your ability to qualify for flying the A-10C Warthog. You need both Part A and Part B to play this campaign. Includes printable A-10C Amplified Checklist pdf in A5 format.",
                 "image"       : "aatc.jpg",
                 "file"        : "DCSWA10C_CMP02A.V1.5.miz",
                 "updated"     : "28-06-2015",
@@ -355,7 +359,7 @@ var missions =
                 [
                 {
                 "name"        : "Campaign",
-                "description" : "A 12 mission campaign that tests your ability to qualify for flying the F-15C Eagle.",
+                "description" : "A 12 mission campaign that tests your ability to qualify for flying the F-15C Eagle. Includes printable F-15C Amplified Checklist pdf in A5 format.",
                 "image"       : "bftc.jpg",
                 "file"        : "DCSWF15C_CMP01.V1.0.miz",
                 "updated"     : "07-02-2015",
@@ -441,6 +445,50 @@ var missions =
                 ]
             }
             ]
+        },
+        {
+            "aircraft": "Su-33 flanker-D",
+            "description": "The Sukhoi Su-33 (NATO reporting name: Flanker-D) is an all-weather carrier-based twin-engine air superiority fighter designed by Sukhoi and manufactured by Komsomolsk-on-Amur Aircraft Production Association. It is a derivative of the Su-27 \"Flanker\" and was initially known as the Su-27K. First used in operations in 1995 aboard the carrier Admiral Kuznetsov, the fighter officially entered service in August 1998, by which time the designation \"Su-33\" was used. Compared with the Su-27, the Su-33 has a strengthened undercarriage and structure, folding wings and stabilators, all for carrier operations. The wings are larger than on land-based aircraft for increased lift. The Su-33 has upgraded engines and a twin nose wheel, and is air refuelable. In 2009, the Russian Navy ordered the MiG-29K as a replacement for the Su-33.",
+            "image": "su33",
+            "campaigns":
+                [
+                {
+                    "name": "[BFT] Basic Flight Training Qualification",
+                    "description": "The goal of the Su-33 Pilot Qualification Course is to prepare Cadets for combat operations flying the Su-33 in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO.  Your campaign mission key will unlock the packages below.",
+                    "price": "$4.99",
+                    "paypal": "",
+                    "packages":
+                        [
+                        {
+                            "name": "Campaign",
+                            "description": "A 12 mission campaign that tests your ability to qualify for flying the Su-33 Flanker-D.",
+                            "image": "bftc.jpg",
+                            "file": "DCSWSU33_CMP01.V1.0.miz",
+                            "updated": "18-10-2015",
+                            "link": "",
+                            "size": "74.89 MB"
+                        },
+                        {
+                            "name": "Documentation",
+                            "description": "A documentation package for the Su-33 Basic Flight Training Qualification Campaign. This documentation package includes Mission Data Cards, Maps and Diagrams for all 12 missions of the campaign. They are in A5 format. Printable and sized to fit your kneeboard. Your mission key for the campaign will unlock the documentation package.",
+                            "image": "bftd.jpg",
+                            "file": "DCSWSU33_CMPDOC01.V1.0.miz",
+                            "updated": "18-10-2015",
+                            "link": "",
+                            "size": "2.67 MB"
+                        },
+                        {
+                            "name": "Badges",
+                            "description": "This documentation package includes User Bars, Badges and certificates. They are in jpeg format for easy printing or including in your Forum signature. Your mission key for the campaign will unlock the documentation package.",
+                            "image": "bftb.jpg",
+                            "file": "DCSWSU33_CMPDOC01.V1.0.miz",
+                            "updated": "18-10-2015",
+                            "link": "",
+                            "size": "1.40 MB"
+                        }
+                        ]
+                }
+                ]
         },
         {
         "aircraft"    : "MiG-29 fulcrum",
@@ -632,7 +680,7 @@ var missions =
             "size"        : "53.91 MB"
             },
             {
-            "name"        : "Red Tails Dogfight (2 P-51D vs Bf-109 K-4)",
+            "name"        : "Red Tails Dogfight (P-51D vs Bf-109 K-4)",
             "description" : "Inspired by the Red Tails legacy this mission puts you in the action with 16 German Bf 109 K-4's of JG27 vs 12 American P-51D's of the famous Red Tails 332nd Fighter Group, 302nd Pursuit Squadron. Pilot names have been updated to reflect real pilots from both sides. Pilot skill has been set to Random as even good pilots can have a bad day.",
             "image"       : "redtd2.jpg",
             "file"        : "RED_TAILS_Dogfight_2_P-51_vs_BF-109.miz",
@@ -827,12 +875,6 @@ var missions =
         "pending"     : true
         },
         {
-        "aircraft"    : "Su-33 flanker-D",
-        "description" : "The Sukhoi Su-33 (NATO reporting name: Flanker-D) is an all-weather carrier-based twin-engine air superiority fighter designed by Sukhoi and manufactured by Komsomolsk-on-Amur Aircraft Production Association. It is a derivative of the Su-27 \"Flanker\" and was initially known as the Su-27K. First used in operations in 1995 aboard the carrier Admiral Kuznetsov, the fighter officially entered service in August 1998, by which time the designation \"Su-33\" was used. Compared with the Su-27, the Su-33 has a strengthened undercarriage and structure, folding wings and stabilators, all for carrier operations. The wings are larger than on land-based aircraft for increased lift. The Su-33 has upgraded engines and a twin nose wheel, and is air refuelable. In 2009, the Russian Navy ordered the MiG-29K as a replacement for the Su-33.",
-        "image"       : "su33",
-        "pending"     : true
-        },
-        {
         "aircraft"    : "UH-1H huey",
         "description" : "The UH-1 Huey is one of the most iconic and recognizable helicopters in the world. Having served extensively as a transport and armed combat support helicopter in the Vietnam War, the Huey continues to perform a wide variety of military and civilian missions around the world today.",
         "image"       : "uh1h",
@@ -955,7 +997,7 @@ var missions =
         {
         "aircraft"    : "ZSU-23-4 shilka",
         "description" : "The ZSU-23-4 \"Shilka\" is a lightly armored, self-propelled, radar guided anti-aircraft weapon system (SPAAG). The acronym \"ZSU\" stands for Zenitnaya Samokhodnaya Ustanovka, meaning \"anti-aircraft self-propelled mount\"; the \"23\" signifies the bore diameter in millimeters; the \"4\" signifies the number of gun barrels. It is named after the Russian Shilka River. Afghan soldiers nicknamed it the \"sewing machine\" due to the sound of the firing guns. It is also referred to by its nickname of \"Zeus.\"",
-        "image"       : "sa19",
+        "image"       : "zsu234",
         "pending"     : true
         }
         ]
