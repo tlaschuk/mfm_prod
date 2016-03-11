@@ -151,59 +151,59 @@ var missions =
         "campaigns"   :
             [
             {
-            "name"        : "[BFT] Basic Flight Training Qualification",
-            "description" : "The goal of the A-10C Pilot Qualification Course is to prepare Cadets for combat operations flying the A-10C in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO.  Your campaign mission key will unlock the packages below.",
+            "name"        : "[BAQ] Basic Aircraft Qualification",
+            "description" : "The goal of the A-10C Pilot Qualification Course is to prepare Cadets for combat operations flying the A-10C in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that measure your ability to meet the qualifications. The course consists of 4 phases.  Phase 1 is Initial Qualification Training (IQT).  This phase ensures you are familiar with the A-10C aircraft systems and instruments. If not, please read the A-10C Flight Manual before continuing. Phase 2 is Basic Aircraft Qualification (BAQ). This phase tests your ability to fly the aircraft successfully. Phase 3 is Basic Mission Capable (BMC). This phases tests your ability to use the aircraft weapons systems successfully. Phase 4 is Combat Mission Ready (CMR). This phase tests your ability to work in a variety of combat roles including working with JTACs and Airborne FACs and performing CAS, CSAR, SEAD and other related mission types.",
             //"price"       : "",
             //"paypal"      : "",
             "packages"    :
                 [
                 {
-                "name"        : "Campaign",
-                "description" : "A 12 mission campaign that tests your ability to qualify for flying the A-10C Warthog. Includes printable A-10C Amplified Checklist pdf in A5 format.",
+                "name"        : "Basic Flight Training [BFT] Qualification Campaign",
+                "description" : "The A-10C Basic Flight Training Qualification campaign tests your ability to fly the aircraft successfully. Based on real world qualification requirements you will fly 12 performance check rides to execute against pre-defined performance objectives. There are over 2300 voiceovers and over 170 pages of briefing material including the A-10C Amplified Checklist, Maps, Diagrams, and Mission Data cards. Additionally 13 Practice Missions are included so you can perfect your Tactics, Techniques and Procedures (TTPs) prior to taking the qualification check rides.",
                 "image"       : "bftc.jpg",
-                "file"        : "DCSWA10C_CMP01",
-                "updated"     : "12-07-2015",
-                "link"        : "https://www.digitalcombatsimulator.com/en/files/203573/",
-                "size"        : "50.35 MB"
+                //"file"        : "DCSWA10C_CMP01",
+                //"updated"     : "12-07-2015",
+                "link"        : "https://www.digitalcombatsimulator.com/en/shop/campaigns/",
+                //"size"        : "50.35 MB"
                 },
-                {
-                "name"        : "Practice",
-                "description" : "12 Single Player Practice Missions for the popular A-10C Basic Flight Training Qualification Campaign. They feature additional training dialogue and runway or in-air starts. Your mission key for the campaign will unlock the single mission package.",
-                "image"       : "bftt.jpg",
-                "file"        : "DCSWA10C_PCMP01",
-                "updated"     : "14-07-2015",
-                "link"        : "https://www.digitalcombatsimulator.com/en/files/274492/",
-                "size"        : "59.34 MB"
-                },
-                {
-                "name"        : "Documentation",
-                "description" : "A documentation package for the popular A-10C Basic Flight Training Qualification Campaign. This documentation package includes Mission Data Cards, Maps and Diagrams for all 12 missions of the campaign. They are in A5 format. Printable and sized to fit your kneeboard. Your mission key for the campaign will unlock the documentation package.",
-                "image"       : "bftd.jpg",
-                "file"        : "DCSWA10C_CMPDOC01",
-                "updated"     : "20-05-2015 ",
-                "link"        : "https://www.digitalcombatsimulator.com/en/files/206955/",
-                "size"        : "2.39 MB"
-                },
-                {
-                "name"        : "Badges",
-                "description" : "This documentation package includes User Bars, Badges and certificates. They are in jpeg format for easy printing or including in your Forum signature. Your mission key for the campaign will unlock the documentation package.",
-                "image"       : "bftb.jpg",
-                "file"        : "DCSWA10C_CMPDOC03",
-                "updated"     : "12-07-2015",
-                "link"        : "https://www.digitalcombatsimulator.com/en/files/421090/",
-                "size"        : "1.14 MB"
-                }
+               // {
+               // "name"        : "Practice",
+               // "description" : "12 Single Player Practice Missions for the popular A-10C Basic Flight Training Qualification Campaign. They feature additional training dialogue and runway or in-air starts. Your mission key for the campaign will unlock the single mission package.",
+               // "image"       : "bftt.jpg",
+               // "file"        : "DCSWA10C_PCMP01",
+               // "updated"     : "14-07-2015",
+               // "link"        : "https://www.digitalcombatsimulator.com/en/files/274492/",
+               // "size"        : "59.34 MB"
+               // },
+               // {
+               // "name"        : "Documentation",
+               // "description" : "A documentation package for the popular A-10C Basic Flight Training Qualification Campaign. This documentation package includes Mission Data Cards, Maps and Diagrams for all 12 missions of the campaign. They are in A5 format. Printable and sized to fit your kneeboard. Your mission key for the campaign will unlock the documentation package.",
+               // "image"       : "bftd.jpg",
+               // "file"        : "DCSWA10C_CMPDOC01",
+               // "updated"     : "20-05-2015 ",
+               // "link"        : "https://www.digitalcombatsimulator.com/en/files/206955/",
+               // "size"        : "2.39 MB"
+               // },
+               // {
+               // "name"        : "Badges",
+               // "description" : "This documentation package includes User Bars, Badges and certificates. They are in jpeg format for easy printing or including in your Forum signature. Your mission key for the campaign will unlock the documentation package.",
+               // "image"       : "bftb.jpg",
+               // "file"        : "DCSWA10C_CMPDOC03",
+               // "updated"     : "12-07-2015",
+               // "link"        : "https://www.digitalcombatsimulator.com/en/files/421090/",
+               // "size"        : "1.14 MB"
+               // }
                 ]
             },
             {
-            "name"        : "[AAT] Advanced Aircraft Training Qualification",
-            "description": "The goal of the A-10C Pilot Qualification Course is to prepare Cadets for combat operations flying the A-10C in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO.  Your campaign mission key will unlock the packages below.",
-            "price"       : "$4.99",
+            "name"        : "[BMC] Basic Mission Capable",
+            "description": "The goal of the A-10C Pilot Qualification Course is to prepare Cadets for combat operations flying the A-10C in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that measure your ability to meet the qualifications. The course consists of 4 phases.  Phase 1 is Initial Qualification Training (IQT).  This phase ensures you are familiar with the A-10C aircraft systems and instruments. If not, please read the A-10C Flight Manual before continuing. Phase 2 is Basic Aircraft Qualification (BAQ). This phase tests your ability to fly the aircraft successfully. Phase 3 is Basic Mission Capable (BMC). This phases tests your ability to use the aircraft weapons systems successfully. Phase 4 is Combat Mission Ready (CMR). This phase tests your ability to work in a variety of combat roles including working with JTACs and Airborne FACs and performing CAS, CSAR, SEAD and other related mission types.",
+            "price": "$4.99",
             "paypal"      : "3RSKWFEHQXZWS",
             "packages"    :
                 [
                 {
-                "name"        : "Campaign",
+                "name"        : "Advanced Aircraft Training [AAT] Qualification Campaign",
                 "description" : "A 10 mission campaign that tests your ability to qualify for flying the A-10C Warthog. You need both Part A and Part B to play this campaign. Includes printable A-10C Amplified Checklist pdf in A5 format.",
                 "image"       : "aatc.jpg",
                 "file"        : "DCSWA10C_CMP02A",
@@ -245,14 +245,14 @@ var missions =
                 ]
             },
             {
-            "name"        : "[TT] Tactical Training Qualification",
-            "description": "The goal of the A-10C Pilot Qualification Course is to prepare Cadets for combat operations flying the A-10C in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO. Your campaign mission key will unlock the packages below.",
-            "price"       : "$4.99",
+            "name"        : "[CMR] Combat Mission Ready",
+            "description": "The goal of the A-10C Pilot Qualification Course is to prepare Cadets for combat operations flying the A-10C in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that measure your ability to meet the qualifications. The course consists of 4 phases.  Phase 1 is Initial Qualification Training (IQT).  This phase ensures you are familiar with the A-10C aircraft systems and instruments. If not, please read the A-10C Flight Manual before continuing. Phase 2 is Basic Aircraft Qualification (BAQ). This phase tests your ability to fly the aircraft successfully. Phase 3 is Basic Mission Capable (BMC). This phases tests your ability to use the aircraft weapons systems successfully. Phase 4 is Combat Mission Ready (CMR). This phase tests your ability to work in a variety of combat roles including working with JTACs and Airborne FACs and performing CAS, CSAR, SEAD and other related mission types.",
+            "price": "$4.99",
             "paypal"      : "RXRGHJM9QUVLU",
             "packages"    :
                 [
                 {
-                "name"        : "Campaign",
+                    "name": "Tactical Training [TT] Qualification Campaign",
                 "description" : "A 15 mission campaign that tests your ability to qualify for flying the A-10C Warthog. You need both Part A and Part B to play this campaign. Includes printable A-10 Amplified Checklist pdf in A5 format.",
                 "image"       : "ttc.jpg",
                 "file"        : "DCSWA10C_CMP03A",
@@ -287,28 +287,28 @@ var missions =
             ],
         "single"      :
             [
-            {
-            "name"        : "[ITT01] Interactive Startup Trainer Tester",
-            "description" : "Single Mission where an Instructor Pilot (IP) calls out checklist items and you have 10 seconds to locate the item to score. If you miss an item the IP will highlight it for you but it will effect you in scoring.",
-            "image"       : "itt01.jpg",
+           // {
+           // "name"        : "[ITT01] Interactive Startup Trainer Tester",
+           // "description" : "Single Mission where an Instructor Pilot (IP) calls out checklist items and you have 10 seconds to locate the item to score. If you miss an item the IP will highlight it for you but it will effect you in scoring.",
+           // "image"       : "itt01.jpg",
             //"price"       : "",
             //"paypal"      : "",
-            "file"        : "DCSWA10C_ITT01",
-            "updated"     : "04-07-2015",
-            "link"        : "https://www.digitalcombatsimulator.com/en/files/208093/",
-            "size"        : "5.75 MB"
-            },
-            {
-            "name"        : "[ITT02] Interactive Shutdown Trainer Tester",
-            "description" : "Single Mission where an Instructor Pilot (IP) calls out Shutdown Checklist items and you have 10 seconds to locate the item to score. If you miss an item the IP will highlight it for you but it will effect you in scoring.",
-            "image"       : "itt02.jpg",
+           // "file"        : "DCSWA10C_ITT01",
+           // "updated"     : "04-07-2015",
+           // "link"        : "https://www.digitalcombatsimulator.com/en/files/208093/",
+           // "size"        : "5.75 MB"
+           // },
+           // {
+           // "name"        : "[ITT02] Interactive Shutdown Trainer Tester",
+           // "description" : "Single Mission where an Instructor Pilot (IP) calls out Shutdown Checklist items and you have 10 seconds to locate the item to score. If you miss an item the IP will highlight it for you but it will effect you in scoring.",
+           // "image"       : "itt02.jpg",
             //"price"       : "",
             //"paypal"      : "",
-            "file"        : "DCSWA10C_ITT02",
-            "updated"     : "04-07-2015",
-            "link"        : "https://www.digitalcombatsimulator.com/en/files/208094/",
-            "size"        : "5.06 MB"
-            },
+           // "file"        : "DCSWA10C_ITT02",
+           // "updated"     : "04-07-2015",
+           // "link"        : "https://www.digitalcombatsimulator.com/en/files/208094/",
+           // "size"        : "5.06 MB"
+           // },
             {
             "name"        : "[AFT01] Air to Air Refueling Day",
             "description" : "AFT01 - Air to Air Refueling Day is the first mission of the Advanced Aircraft Training Qualification Course for the A/OA-10C. This single player mission can be launched directly from the Missions menu and is identical to the first mission in the Advanced Aircraft Training Qualification Campaign.",
