@@ -38,7 +38,8 @@ mixin aircraft(aircraft)
         each campaign in aircraft.campaigns
           .group_campaign
             .group_campaign-description
-              press.press_buy: a(href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=#{campaign.paypal}" target="_blank")= campaign.price
+              if campaign.price != undefined
+                press.press_buy: a(href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=#{campaign.paypal}" target="_blank")= campaign.price
               div: strong= campaign.name
               p= campaign.description
             each package in campaign.packages
@@ -53,6 +54,6 @@ mixin package(package, aircraft)
       press.press_download: a(href="#{package.link2}" target="_blank")
     div: strong= package.name
     p= package.description
-    h6 #{package.file} (#{package.size} #{package.updated})
+    h6 #{package.file} (#{package.size})
     if package.file2 != undefined
-      h6 #{package.file2} (#{package.size2} #{package.updated2})
+      h6 #{package.file2} (#{package.size2})

@@ -117,7 +117,7 @@ var missions =
                 "name"        : "Campaign",
                 "description" : "A 12 mission campaign that tests your ability to qualify for flying the A-10A Warthog. Includes printable A-10A Amplified Checklist pdf in A5 format.",
                 "image"       : "bftc.jpg",
-                "file"        : "DCSWA10A_CMP01.V1.3.miz",
+                "file"        : "DCSWA10A_CMP01",
                 "updated"     : "20-06-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/1221920/",
                 "size"        : "74.01 MB"
@@ -126,7 +126,7 @@ var missions =
                 "name"        : "Documentation",
                 "description" : "A documentation package for the A-10A Basic Flight Training Qualification Campaign. This documentation package includes Mission Data Cards, Maps and Diagrams for all 12 missions of the campaign. They are in A5 format. Printable and sized to fit your kneeboard. Your mission key for the campaign will unlock the documentation package.",
                 "image"       : "bftd.jpg",
-                "file"        : "DCSWA10A_CMPDOC01.V1.2.miz",
+                "file"        : "DCSWA10A_CMPDOC01",
                 "updated"     : "14-07-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/1221924/",
                 "size"        : "2.46 MB"
@@ -135,7 +135,7 @@ var missions =
                 "name"        : "Badges",
                 "description" : "This documentation package includes User Bars, Badges and certificates. They are in jpeg format for easy printing or including in your Forum signature. Your mission key for the campaign will unlock the documentation package.",
                 "image"       : "bftb.jpg",
-                "file"        : "DCSWA10A_CMPDOC03.V1.1.miz",
+                "file"        : "DCSWA10A_CMPDOC03",
                 "updated"     : "14-07-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/1221925/",
                 "size"        : "1.53 MB"
@@ -153,15 +153,15 @@ var missions =
             {
             "name"        : "[BFT] Basic Flight Training Qualification",
             "description" : "The goal of the A-10C Pilot Qualification Course is to prepare Cadets for combat operations flying the A-10C in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO.  Your campaign mission key will unlock the packages below.",
-            "price"       : "$4.99",
-            "paypal"      : "GHXS2QEUZXJ54",
+            //"price"       : "",
+            //"paypal"      : "",
             "packages"    :
                 [
                 {
                 "name"        : "Campaign",
                 "description" : "A 12 mission campaign that tests your ability to qualify for flying the A-10C Warthog. Includes printable A-10C Amplified Checklist pdf in A5 format.",
                 "image"       : "bftc.jpg",
-                "file"        : "DCSWA10C_CMP01.V1.4.miz",
+                "file"        : "DCSWA10C_CMP01",
                 "updated"     : "12-07-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/203573/",
                 "size"        : "50.35 MB"
@@ -170,7 +170,7 @@ var missions =
                 "name"        : "Practice",
                 "description" : "12 Single Player Practice Missions for the popular A-10C Basic Flight Training Qualification Campaign. They feature additional training dialogue and runway or in-air starts. Your mission key for the campaign will unlock the single mission package.",
                 "image"       : "bftt.jpg",
-                "file"        : "DCSWA10C_PCMP01.V1.3.miz",
+                "file"        : "DCSWA10C_PCMP01",
                 "updated"     : "14-07-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/274492/",
                 "size"        : "59.34 MB"
@@ -179,7 +179,7 @@ var missions =
                 "name"        : "Documentation",
                 "description" : "A documentation package for the popular A-10C Basic Flight Training Qualification Campaign. This documentation package includes Mission Data Cards, Maps and Diagrams for all 12 missions of the campaign. They are in A5 format. Printable and sized to fit your kneeboard. Your mission key for the campaign will unlock the documentation package.",
                 "image"       : "bftd.jpg",
-                "file"        : "DCSWA10C_CMPDOC01.V1.1.miz",
+                "file"        : "DCSWA10C_CMPDOC01",
                 "updated"     : "20-05-2015 ",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/206955/",
                 "size"        : "2.39 MB"
@@ -188,7 +188,7 @@ var missions =
                 "name"        : "Badges",
                 "description" : "This documentation package includes User Bars, Badges and certificates. They are in jpeg format for easy printing or including in your Forum signature. Your mission key for the campaign will unlock the documentation package.",
                 "image"       : "bftb.jpg",
-                "file"        : "DCSWA10C_CMPDOC03.V1.1.miz",
+                "file"        : "DCSWA10C_CMPDOC03",
                 "updated"     : "12-07-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/421090/",
                 "size"        : "1.14 MB"
@@ -206,11 +206,11 @@ var missions =
                 "name"        : "Campaign",
                 "description" : "A 10 mission campaign that tests your ability to qualify for flying the A-10C Warthog. You need both Part A and Part B to play this campaign. Includes printable A-10C Amplified Checklist pdf in A5 format.",
                 "image"       : "aatc.jpg",
-                "file"        : "DCSWA10C_CMP02A.V1.5.miz",
+                "file"        : "DCSWA10C_CMP02A",
                 "updated"     : "28-06-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/250298/",
                 "size"        : "48.93 MB",
-                "file2"       : "DCSWA10C_CMP02B.V1.5.miz",
+                "file2"       : "DCSWA10C_CMP02B",
                 "updated2"    : "28-06-2015",
                 "link2"       : "https://www.digitalcombatsimulator.com/en/files/250299/",
                 "size2"       : "61.06 MB"
@@ -219,7 +219,7 @@ var missions =
                 "name"        : "Practice",
                 "description" : "10 Single Player Practice Missions for the popular A-10C Advanced Aircraft Training Qualification Campaign. They feature additional training dialogue and in-air starts. Your mission key for the campaign will unlock the single mission package.",
                 "image"       : "aatt.jpg",
-                "file"        : "DCSWA10C_PCMP02.V1.2.miz",
+                "file"        : "DCSWA10C_PCMP02",
                 "updated"     : "20-05-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/421093/",
                 "size"        : "21.39 MB"
@@ -228,7 +228,7 @@ var missions =
                 "name"        : "Documentation",
                 "description" : "A documentation package for the popular A-10C Advanced Aircraft Training Qualification Campaign. This documentation package includes Mission Data Cards, Maps and Diagrams for all 10 missions of the campaign. They are in A5 format. Printable and sized to fit your kneeboard. Your mission key for the campaign will unlock the documentation package.",
                 "image"       : "aatd.jpg",
-                "file"        : "DCSWA10C_CMPDOC02.V1.0.miz",
+                "file"        : "DCSWA10C_CMPDOC02",
                 "updated"     : "14-07-2015 ",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/250470/",
                 "size"        : "2.01 MB"
@@ -237,7 +237,7 @@ var missions =
                 "name"        : "Badges",
                 "description" : "This documentation package includes User Bars, Badges and certificates. They are in jpeg format for easy printing or including in your Forum signature. Your mission key for the campaign will unlock the documentation package.",
                 "image"       : "aatb.jpg",
-                "file"        : "DCSWA10C_CMPDOC04.V1.1.miz",
+                "file"        : "DCSWA10C_CMPDOC04",
                 "updated"     : "14-07-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/421091/",
                 "size"        : "1.07 MB"
@@ -255,11 +255,11 @@ var missions =
                 "name"        : "Campaign",
                 "description" : "A 15 mission campaign that tests your ability to qualify for flying the A-10C Warthog. You need both Part A and Part B to play this campaign. Includes printable A-10 Amplified Checklist pdf in A5 format.",
                 "image"       : "ttc.jpg",
-                "file"        : "DCSWA10C_CMP03A.V1.5.miz",
+                "file"        : "DCSWA10C_CMP03A",
                 "updated"     : "20-05-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/699221/",
                 "size"        : "94.01 MB",
-                "file2"       : "DCSWA10C_CMP03B.V1.5.miz",
+                "file2"       : "DCSWA10C_CMP03B",
                 "updated2"    : "20-05-2015",
                 "link2"       : "https://www.digitalcombatsimulator.com/en/files/929766/",
                 "size2"       : "84.15 MB"
@@ -268,7 +268,7 @@ var missions =
                 "name"        : "Documentation",
                 "description" : "A documentation package for the popular A-10C Tactical Training Qualification Campaign. This documentation package includes Mission Data Cards, Maps and Diagrams for all 15 missions of the campaign. They are in A5 format. Printable and sized to fit your kneeboard. Your mission key for the campaign will unlock the documentation package.",
                 "image"       : "ttd.jpg",
-                "file"        : "DCSWA10C_CMPDOC05.V1.1.miz",
+                "file"        : "DCSWA10C_CMPDOC05",
                 "updated"     : "14-07-2015 ",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/699240/",
                 "size"        : "11.96 MB"
@@ -277,7 +277,7 @@ var missions =
                 "name"        : "Badges",
                 "description" : "This documentation package includes User Bars, Badges and certificates. They are in jpeg format for easy printing or including in your Forum signature. Your mission key for the campaign will unlock the documentation package.",
                 "image"       : "ttb.jpg",
-                "file"        : "DCSWA10C_CMPDOC06.V1.0.miz",
+                "file"        : "DCSWA10C_CMPDOC06",
                 "updated"     : "14-07-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/699246/",
                 "size"        : "1.53 MB"
@@ -289,22 +289,22 @@ var missions =
             [
             {
             "name"        : "[ITT01] Interactive Startup Trainer Tester",
-            "description" : "Single Mission where an Instructor Pilot (IP) calls out checklist items and you have 10 seconds to locate the item to score. If you miss an item the IP will highlight it for you but it will price ou in scoring.",
+            "description" : "Single Mission where an Instructor Pilot (IP) calls out checklist items and you have 10 seconds to locate the item to score. If you miss an item the IP will highlight it for you but it will effect you in scoring.",
             "image"       : "itt01.jpg",
-            "price"       : "$0.99",
-            "paypal"      : "VQGYRXG2JJTGN",
-            "file"        : "DCSWA10C_ITT01.V1.5.miz",
+            //"price"       : "",
+            //"paypal"      : "",
+            "file"        : "DCSWA10C_ITT01",
             "updated"     : "04-07-2015",
             "link"        : "https://www.digitalcombatsimulator.com/en/files/208093/",
             "size"        : "5.75 MB"
             },
             {
             "name"        : "[ITT02] Interactive Shutdown Trainer Tester",
-            "description" : "Single Mission where an Instructor Pilot (IP) calls out Shutdown Checklist items and you have 10 seconds to locate the item to score. If you miss an item the IP will highlight it for you but it will price ou in scoring.",
+            "description" : "Single Mission where an Instructor Pilot (IP) calls out Shutdown Checklist items and you have 10 seconds to locate the item to score. If you miss an item the IP will highlight it for you but it will effect you in scoring.",
             "image"       : "itt02.jpg",
-            "price"       : "$0.99",
-            "paypal"      : "A7D4KZJPJ7U4Q",
-            "file"        : "DCSWA10C_ITT02.V1.4.miz",
+            //"price"       : "",
+            //"paypal"      : "",
+            "file"        : "DCSWA10C_ITT02",
             "updated"     : "04-07-2015",
             "link"        : "https://www.digitalcombatsimulator.com/en/files/208094/",
             "size"        : "5.06 MB"
@@ -315,7 +315,7 @@ var missions =
             "image"       : "aft01.jpg",
             "price"       : "$0.99",
             "paypal"      : "X8D3QKBHFJYTG",
-            "file"        : "DCSWA10C_AFT01.V1.5.miz",
+            "file"        : "DCSWA10C_AFT01",
             "updated"     : "14-07-2015",
             "link"        : "https://www.digitalcombatsimulator.com/en/files/208371/",
             "size"        : "14.10 MB"
@@ -326,7 +326,7 @@ var missions =
             "image"       : "aft02.jpg",
             "price"       : "$0.99",
             "paypal"      : "DBXUZHD8HG9JG",
-            "file"        : "DCSWA10C_AFT02.V1.5.miz",
+            "file"        : "DCSWA10C_AFT02",
             "updated"     : "14-07-2015",
             "link"        : "https://www.digitalcombatsimulator.com/en/files/208372/",
             "size"        : "15.16 MB"
@@ -337,7 +337,7 @@ var missions =
             "image"       : "aft03.jpg",
             "price"       : "$0.99",
             "paypal"      : "YT2D8LYKWAXVW",
-            "file"        : "DCSWA10C_AFT03.V1.5.miz",
+            "file"        : "DCSWA10C_AFT03",
             "updated"     : "14-07-2015",
             "link"        : "https://www.digitalcombatsimulator.com/en/files/214774/",
             "size"        : "10.09 MB"
@@ -361,7 +361,7 @@ var missions =
                 "name"        : "Campaign",
                 "description" : "A 12 mission campaign that tests your ability to qualify for flying the F-15C Eagle. Includes printable F-15C Amplified Checklist pdf in A5 format.",
                 "image"       : "bftc.jpg",
-                "file"        : "DCSWF15C_CMP01.V1.0.miz",
+                "file"        : "DCSWF15C_CMP01",
                 "updated"     : "07-02-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/1251836/",
                 "size"        : "71.50 MB"
@@ -370,7 +370,7 @@ var missions =
                 "name"        : "Documentation",
                 "description" : "A documentation package for the F-15C Basic Flight Training Qualification Campaign. This documentation package includes Mission Data Cards, Maps and Diagrams for all 12 missions of the campaign. They are in A5 format. Printable and sized to fit your kneeboard. Your mission key for the campaign will unlock the documentation package.",
                 "image"       : "bftd.jpg",
-                "file"        : "DCSWF15C_CMPDOC01.V1.0.miz",
+                "file"        : "DCSWF15C_CMPDOC01",
                 "updated"     : "07-02-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/1251843/",
                 "size"        : "2.54 MB"
@@ -379,7 +379,7 @@ var missions =
                 "name"        : "Badges",
                 "description" : "This documentation package includes User Bars, Badges and certificates. They are in jpeg format for easy printing or including in your Forum signature. Your mission key for the campaign will unlock the documentation package.",
                 "image"       : "bftb.jpg",
-                "file"        : "DCSWF15C_CMPDOC03.V1.0.miz",
+                "file"        : "DCSWF15C_CMPDOC03",
                 "updated"     : "07-02-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/1251845/",
                 "size"        : "1.45 MB"
@@ -395,7 +395,7 @@ var missions =
             "image"       : "fkill.jpg",
             "price"       : "$0.99",
             "paypal"      : "6T753S4GCDEQ8",
-            "file"        : "FC3_F1501.V1.0.miz",
+            "file"        : "FC3_F1501",
             "updated"     : "05-02-15",
             "link"        : "https://www.digitalcombatsimulator.com/en/files/345628/",
             "size"        : "7.50 MB"
@@ -419,7 +419,7 @@ var missions =
                 "name"        : "Campaign",
                 "description" : "A 12 mission campaign that tests your ability to qualify for flying the Su-27 Flanker.",
                 "image"       : "bftc.jpg",
-                "file"        : "DCSWSU27_CMP01.V1.0.miz",
+                "file"        : "DCSWSU27_CMP01",
                 "updated"     : "18-10-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/1507810/",
                 "size"        : "74.89 MB"
@@ -428,7 +428,7 @@ var missions =
                 "name"        : "Documentation",
                 "description" : "A documentation package for the Su-27 Basic Flight Training Qualification Campaign. This documentation package includes Mission Data Cards, Maps and Diagrams for all 12 missions of the campaign. They are in A5 format. Printable and sized to fit your kneeboard. Your mission key for the campaign will unlock the documentation package.",
                 "image"       : "bftd.jpg",
-                "file"        : "DCSWSU27_CMPDOC01.V1.0.miz",
+                "file"        : "DCSWSU27_CMPDOC01",
                 "updated"     : "18-10-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/1507812/",
                 "size"        : "2.67 MB"
@@ -437,7 +437,7 @@ var missions =
                 "name"        : "Badges",
                 "description" : "This documentation package includes User Bars, Badges and certificates. They are in jpeg format for easy printing or including in your Forum signature. Your mission key for the campaign will unlock the documentation package.",
                 "image"       : "bftb.jpg",
-                "file"        : "DCSWSU27_CMPDOC01.V1.0.miz",
+                "file"        : "DCSWSU27_CMPDOC01",
                 "updated"     : "18-10-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/1507813/",
                 "size"        : "1.40 MB"
@@ -447,7 +447,7 @@ var missions =
             ]
         },
         {
-            "aircraft": "Su-33 flanker-D",
+            "aircraft": "Su-33 flanker-d",
             "description": "The Sukhoi Su-33 (NATO reporting name: Flanker-D) is an all-weather carrier-based twin-engine air superiority fighter designed by Sukhoi and manufactured by Komsomolsk-on-Amur Aircraft Production Association. It is a derivative of the Su-27 \"Flanker\" and was initially known as the Su-27K. First used in operations in 1995 aboard the carrier Admiral Kuznetsov, the fighter officially entered service in August 1998, by which time the designation \"Su-33\" was used. Compared with the Su-27, the Su-33 has a strengthened undercarriage and structure, folding wings and stabilators, all for carrier operations. The wings are larger than on land-based aircraft for increased lift. The Su-33 has upgraded engines and a twin nose wheel, and is air refuelable. In 2009, the Russian Navy ordered the MiG-29K as a replacement for the Su-33.",
             "image": "su33",
             "campaigns":
@@ -455,15 +455,16 @@ var missions =
                 {
                     "name": "[BFT] Basic Flight Training Qualification",
                     "description": "The goal of the Su-33 Pilot Qualification Course is to prepare Cadets for combat operations flying the Su-33 in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO.  Your campaign mission key will unlock the packages below.",
-                    "price": "$4.99",
+                    "price": "",
                     "paypal": "",
+                    "link": "https://www.digitalcombatsimulator.com/en/files/1507813/",
                     "packages":
                         [
                         {
                             "name": "Campaign",
                             "description": "A 12 mission campaign that tests your ability to qualify for flying the Su-33 Flanker-D.",
                             "image": "bftc.jpg",
-                            "file": "DCSWSU33_CMP01.V1.0.miz",
+                            "file": "DCSWSU33_CMP01",
                             "updated": "18-10-2015",
                             "link": "",
                             "size": "74.89 MB"
@@ -472,7 +473,7 @@ var missions =
                             "name": "Documentation",
                             "description": "A documentation package for the Su-33 Basic Flight Training Qualification Campaign. This documentation package includes Mission Data Cards, Maps and Diagrams for all 12 missions of the campaign. They are in A5 format. Printable and sized to fit your kneeboard. Your mission key for the campaign will unlock the documentation package.",
                             "image": "bftd.jpg",
-                            "file": "DCSWSU33_CMPDOC01.V1.0.miz",
+                            "file": "DCSWSU33_CMPDOC01",
                             "updated": "18-10-2015",
                             "link": "",
                             "size": "2.67 MB"
@@ -481,7 +482,7 @@ var missions =
                             "name": "Badges",
                             "description": "This documentation package includes User Bars, Badges and certificates. They are in jpeg format for easy printing or including in your Forum signature. Your mission key for the campaign will unlock the documentation package.",
                             "image": "bftb.jpg",
-                            "file": "DCSWSU33_CMPDOC01.V1.0.miz",
+                            "file": "DCSWSU33_CMPDOC01",
                             "updated": "18-10-2015",
                             "link": "",
                             "size": "1.40 MB"
@@ -507,7 +508,7 @@ var missions =
                 "name"        : "Campaign",
                 "description" : "A 12 mission campaign that tests your ability to qualify for flying the MiG-29G Fulcrum.",
                 "image"       : "bftc.jpg",
-                "file"        : "DCSWMIG29G_CMP01.V1.0.miz",
+                "file"        : "DCSWMIG29G_CMP01",
                 "updated"     : "22-02-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/1286494/",
                 "size"        : "70.62 MB"
@@ -516,7 +517,7 @@ var missions =
                 "name"        : "Documentation",
                 "description" : "A documentation package for the MiG-29G Basic Flight Training Qualification Campaign. This documentation package includes Mission Data Cards, Maps and Diagrams for all 12 missions of the campaign. They are in A5 format. Printable and sized to fit your kneeboard. Your mission key for the campaign will unlock the documentation package.",
                 "image"       : "bftd.jpg",
-                "file"        : "DCSWMIG29G_CMPDOC01.V1.0.miz",
+                "file"        : "DCSWMIG29G_CMPDOC01",
                 "updated"     : "22-02-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/1286495/",
                 "size"        : "2.32 MB"
@@ -525,7 +526,7 @@ var missions =
                 "name"        : "Badges",
                 "description" : "This documentation package includes User Bars, Badges and certificates. They are in jpeg format for easy printing or including in your Forum signature. Your mission key for the campaign will unlock the documentation package.",
                 "image"       : "bftb.jpg",
-                "file"        : "DCSWMIG29G_CMPDOC03.V1.0.miz",
+                "file"        : "DCSWMIG29G_CMPDOC03",
                 "updated"     : "22-02-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/1286499/",
                 "size"        : "1.39 MB"
@@ -544,7 +545,7 @@ var missions =
             "name"        : "Dogfighting with Eagles",
             "description" : "A single player mission inspired by the first F-15C Kill, this mission puts you in the action with 4 Syrian MiG-21s vs 4 Israeli F-15Cs.",
             "image"       : "deagles.jpg",
-            "file"        : "Dogfighting_with_Eagles.miz",
+            "file"        : "Dogfighting_with_Eagles",
             "updated"     : "12-03-2015",
             "link"        : "http://www.digitalcombatsimulator.com/en/files/1322515/",
             "size"        : "107.43 KB"
@@ -561,7 +562,7 @@ var missions =
             "name"        : "Dogfighting with Migs",
             "description" : "A single player mission inspired by the 51st Fighter Wing legacy this mission puts you in the action with 16 North Korean Mig15s of the 176th GvIAP vs 12 American F-86s of the famous 39th Fighter Squadron of the 51st Fighter Wing.",
             "image"       : "dmigs.jpg",
-            "file"        : "Dogfighting_with_Migs.miz",
+            "file"        : "Dogfighting_with_Migs",
             "updated"     : "16-08-2014",
             "link"        : "https://www.digitalcombatsimulator.com/en/files/778752/",
             "size"        : "51.33 KB"
@@ -578,7 +579,7 @@ var missions =
             "name"        : "Dogfighting with Sabres",
             "description" : "A single player mission inspired by the Korean War, this mission puts you in the action with 12 North Korean Mig15s of the 176th GvIAP vs 12 American F-86s of the famous 39th Fighter Squadron of the 51st Fighter Wing.",
             "image"       : "dsabres.jpg",
-            "file"        : "Dogfighting_with_Sabres.miz",
+            "file"        : "Dogfighting_with_Sabres",
             "updated"     : "11-03-2015",
             "link"        : "http://www.digitalcombatsimulator.com/en/files/1322438/",
             "size"        : "54.02 KB"
@@ -597,7 +598,7 @@ var missions =
             "image"       : "itt01.jpg",
             "price"       : "$0.99",
             "paypal"      : "77PK5QBAW9XRE",
-            "file"        : "DCSWBS2_ITT01.V1.0.miz",
+            "file"        : "DCSWBS2_ITT01",
             "updated"     : "05-01-12",
             "link"        : "https://www.digitalcombatsimulator.com/en/files/214759/",
             "size"        : "9.80 MB"
@@ -608,7 +609,7 @@ var missions =
             "image"       : "itt02.jpg",
             "price"       : "$0.99",
             "paypal"      : "YJSZDSC2WT28E",
-            "file"        : "DCSWBS2_ITT02.V1.0.miz",
+            "file"        : "DCSWBS2_ITT02",
             "updated"     : "06-04-12",
             "link"        : "https://www.digitalcombatsimulator.com/en/files/214762/",
             "size"        : "5.40 MB"
@@ -619,7 +620,7 @@ var missions =
             "image"       : "bft01.jpg",
             "price"       : "$0.99",
             "paypal"      : "CWBS32ELR5PBJ",
-            "file"        : "DCSWBS2_BFT01.V1.0.miz",
+            "file"        : "DCSWBS2_BFT01",
             "updated"     : "06-04-12",
             "link"        : "https://www.digitalcombatsimulator.com/en/files/214763/",
             "size"        : "9.20 MB"
@@ -630,7 +631,7 @@ var missions =
             "image"       : "bft02.jpg",
             "price"       : "$0.99",
             "paypal"      : "MR89E4K5WCECY",
-            "file"        : "DCSWBS2_BFT02.V1.0.miz",
+            "file"        : "DCSWBS2_BFT02",
             "updated"     : "26-08-12",
             "link"        : "https://www.digitalcombatsimulator.com/en/files/216084/",
             "size"        : "6.30 MB"
@@ -647,7 +648,7 @@ var missions =
             "name"        : "Interactive Start up Trainer Tester",
             "description" : "Single Mission where an Instructor Pilot (IP) calls out Start up Checklist items and you have to locate and enable the item within 10 seconds to score.",
             "image"       : "itt01.jpg",
-            "file"        : "Interactive Startup Trainer Tester.miz",
+            "file"        : "Interactive Startup Trainer Tester",
             "updated"     : "20-05-2015",
             "link"        : "https://www.digitalcombatsimulator.com/en/files/203559/",
             "size"        : "2.44 MB"
@@ -656,7 +657,7 @@ var missions =
             "name"        : "Train Ranger",
             "description" : "A single mission to attack stationary and moving trains.",
             "image"       : "train.jpg",
-            "file"        : "Train Ranger.miz",
+            "file"        : "Train Ranger",
             "updated"     : "20-05-2015",
             "link"        : "https://www.digitalcombatsimulator.com/en/files/203581/",
             "size"        : "547.87 KB"
@@ -665,7 +666,7 @@ var missions =
             "name"        : "Train Ranger (Multiplayer)",
             "description" : "A 4-slot multiplayer mission to attack stationary and moving trains.",
             "image"       : "trainmp.jpg",
-            "file"        : "Train Ranger.miz",
+            "file"        : "Train Ranger",
             "updated"     : "20-05-2015",
             "link"        : "https://www.digitalcombatsimulator.com/en/files/846668/",
             "size"        : "140.35 MB"
@@ -674,7 +675,7 @@ var missions =
             "name"        : "Red Tails Dogfight",
             "description" : "Inspired by the Red Tails legacy this mission puts you in the action with 16 German FW-190D-9's of JG54 vs 12 American P-51D's of the famous Red Tails 332nd Fighter Group, 302nd Pursuit Squadron. Pilot names have been updated to reflect real pilots from both sides. Pilot skill has been set to Random as even good pilots can have a bad day.",
             "image"       : "redtd.jpg",
-            "file"        : "RED TAILS Dogfight.miz",
+            "file"        : "RED TAILS Dogfight",
             "updated"     : "14-05-2015",
             "link"        : "https://www.digitalcombatsimulator.com/en/files/586397/",
             "size"        : "53.91 MB"
@@ -683,7 +684,7 @@ var missions =
             "name"        : "Red Tails Dogfight (P-51D vs Bf-109 K-4)",
             "description" : "Inspired by the Red Tails legacy this mission puts you in the action with 16 German Bf 109 K-4's of JG27 vs 12 American P-51D's of the famous Red Tails 332nd Fighter Group, 302nd Pursuit Squadron. Pilot names have been updated to reflect real pilots from both sides. Pilot skill has been set to Random as even good pilots can have a bad day.",
             "image"       : "redtd2.jpg",
-            "file"        : "RED_TAILS_Dogfight_2_P-51_vs_BF-109.miz",
+            "file"        : "RED_TAILS_Dogfight_2_P-51_vs_BF-109",
             "updated"     : "14-05-2015",
             "link"        : "https://www.digitalcombatsimulator.com/en/files/1079235/",
             "size"        : "82.25 MB"
@@ -700,7 +701,7 @@ var missions =
             "name"        : "Dogfight with the Red Tails",
             "description" : "A single player mission inspired by the Red Tails legacy this mission puts you in the action with 16 German Fw-190s of JG54 vs 16 American P-51Ds of the famous Red Tails 332nd Fighter Group, 302nd Pursuit Squadron.",
             "image"       : "redtd.jpg",
-            "file"        : "Dogfight_with_the_RED_TAILS.miz",
+            "file"        : "Dogfight_with_the_RED_TAILS",
             "updated"     : "10-08-2014",
             "link"        : "https://www.digitalcombatsimulator.com/en/files/777204/",
             "size"        : "74.04 KB"
@@ -717,7 +718,7 @@ var missions =
             "name"        : "Dogfight with the Red Tails",
             "description" : "A single player mission inspired by the Red Tails legacy this mission puts you in the action with 16 German Bf-109 K-4s of JG27 vs 16 American P-51s of the famous Red Tails 332nd Fighter Group, 302nd Pursuit Squadron.",
             "image"       : "redtd.jpg",
-            "file"        : "Dogfight_with_the_RED_TAILS.miz",
+            "file"        : "Dogfight_with_the_RED_TAILS",
             "updated"     : "04-12-2014",
             "link"        : "https://www.digitalcombatsimulator.com/en/files/1075088/",
             "size"        : "70.95 KB"
@@ -741,7 +742,7 @@ var missions =
                 "name"        : "Campaign",
                 "description" : "A 10 mission campaign that tests your ability to drive and shoot the M1A2 Abrams Main Battle Tank.",
                 "image"       : "bvtc.jpg",
-                "file"        : "DCSWM1A2_CMP01.V1.0.miz",
+                "file"        : "DCSWM1A2_CMP01",
                 "updated"     : "12-04-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/1402490/",
                 "size"        : "73.48 MB"
@@ -750,7 +751,7 @@ var missions =
                 "name"        : "Documentation",
                 "description" : "A documentation package for the M1A2 Basic Vehicle Training Qualification Campaign. This documentation package includes Maps and Diagrams for all 10 missions of the campaign. They are in A5 format. Printable and sized to fit your kneeboard. Your mission key for the campaign will unlock the documentation package.",
                 "image"       : "bvtd.jpg",
-                "file"        : "DCSWM1A2_CMPDOC01.V1.0.miz",
+                "file"        : "DCSWM1A2_CMPDOC01",
                 "updated"     : "12-04-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/1402491/",
                 "size"        : "2.24 MB"
@@ -759,7 +760,7 @@ var missions =
                 "name"        : "Badges",
                 "description" : "This documentation package includes User Bars, Badges and certificates. They are in jpeg format for easy printing or including in your Forum signature. Your mission key for the campaign will unlock the documentation package.",
                 "image"       : "bvtb.jpg",
-                "file"        : "DCSWM1A2_CMPDOC03.V1.0.miz",
+                "file"        : "DCSWM1A2_CMPDOC03",
                 "updated"     : "12-04-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/1402495/",
                 "size"        : "1.17 MB"
@@ -785,7 +786,7 @@ var missions =
                 "name"        : "Campaign",
                 "description" : "A 10 mission campaign that tests your ability to drive and shoot the Challenger 2 Main Battle Tank.",
                 "image"       : "bvtc.jpg",
-                "file"        : "DCSWCHG2_CMP01.V1.0.miz",
+                "file"        : "DCSWCHG2_CMP01",
                 "updated"     : "18-05-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/1412169/",
                 "size"        : "73.22 MB"
@@ -794,7 +795,7 @@ var missions =
                 "name"        : "Documentation",
                 "description" : "A documentation package for the Challenger 2 Basic Vehicle Training Qualification Campaign. This documentation package includes Maps and Diagrams for all 10 missions of the campaign. They are in A5 format. Printable and sized to fit your kneeboard. Your mission key for the campaign will unlock the documentation package.",
                 "image"       : "bvtd.jpg",
-                "file"        : "DCSWCHG2_CMPDOC01.V1.0.miz",
+                "file"        : "DCSWCHG2_CMPDOC01",
                 "updated"     : "18-05-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/1412170/",
                 "size"        : "2.24 MB"
@@ -803,7 +804,7 @@ var missions =
                 "name"        : "Badges",
                 "description" : "This documentation package includes User Bars, Badges and certificates. They are in jpeg format for easy printing or including in your Forum signature. Your mission key for the campaign will unlock the documentation package.",
                 "image"       : "bvtb.jpg",
-                "file"        : "DCSWCHG2_CMPDOC03.V1.0.miz",
+                "file"        : "DCSWCHG2_CMPDOC03",
                 "updated"     : "18-05-2015",
                 "link"        : "https://www.digitalcombatsimulator.com/en/files/1412171/",
                 "size"        : "1.15 MB"
@@ -829,7 +830,7 @@ var missions =
                             "name": "Campaign",
                             "description": "A 10 mission campaign that tests your ability to drive and shoot the Leopard 2 Main Battle Tank.",
                             "image": "bvtc.jpg",
-                            "file": "DCSWCHG2_CMP01.V1.0.miz",
+                            "file": "DCSWCHG2_CMP01",
                             "updated": "29-06-2015",
                             "link": "https://www.digitalcombatsimulator.com/en/files/1445034/",
                             "size": "73.55 MB"
@@ -838,7 +839,7 @@ var missions =
                             "name": "Documentation",
                             "description": "A documentation package for the Leopard 2 Basic Vehicle Training Qualification Campaign. This documentation package includes Maps and Diagrams for all 10 missions of the campaign. They are in A5 format. Printable and sized to fit your kneeboard. Your mission key for the campaign will unlock the documentation package.",
                             "image": "bvtd.jpg",
-                            "file": "DCSWCHG2_CMPDOC01.V1.0.miz",
+                            "file": "DCSWCHG2_CMPDOC01",
                             "updated": "29-06-2015",
                             "link": "https://www.digitalcombatsimulator.com/en/files/1445035/",
                             "size": "2.24 MB"
@@ -847,7 +848,7 @@ var missions =
                             "name": "Badges",
                             "description": "This documentation package includes User Bars, Badges and certificates. They are in jpeg format for easy printing or including in your Forum signature. Your mission key for the campaign will unlock the documentation package.",
                             "image": "bvtb.jpg",
-                            "file": "DCSWCHG2_CMPDOC03.V1.0.miz",
+                            "file": "DCSWCHG2_CMPDOC03",
                             "updated": "29-06-2015",
                             "link": "https://www.digitalcombatsimulator.com/en/files/1445036/",
                             "size": "1.15 MB"
