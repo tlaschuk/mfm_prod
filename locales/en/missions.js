@@ -107,9 +107,9 @@ var missions =
         "campaigns"   :
             [
             {
-            "name"        : "[BFT] Basic Flight Training Qualification",
-            "description": "The goal of the A-10A Pilot Qualification Course is to prepare Cadets for combat operations flying the A-10A in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO. Your campaign mission key will unlock the packages below.",
-            "price"       : "$4.99",
+            "name"        : "[BAQ] Basic Aircraft Qualification",
+            "description" : "The goal of the A-10A Pilot Qualification Course is to prepare Cadets for combat operations flying the aircraft in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that measure your ability to meet the qualifications. The course consists of 4 phases.  Phase 1 is Initial Qualification Training (IQT).  This phase ensures you are familiar with the aircraft systems and instruments. If not, please read the aircraft Flight Manual before continuing. Phase 2 is Basic Aircraft Qualification (BAQ). This phase tests your ability to fly the aircraft successfully. Phase 3 is Basic Mission Capable (BMC). This phases tests your ability to use the aircraft weapons systems successfully. Phase 4 is Combat Mission Ready (CMR). This phase tests your ability to work in a variety of combat roles including working with JTACs and Airborne FACs and performing CAS, CSAR, SEAD and other related mission types.",
+            "price": "$9.99 USD",
             "paypal"      : "5PKRHD8456K84",
             "packages"    :
                 [
@@ -152,7 +152,7 @@ var missions =
             [
             {
             "name"        : "[BAQ] Basic Aircraft Qualification",
-            "description" : "The goal of the A-10C Pilot Qualification Course is to prepare Cadets for combat operations flying the A-10C in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that measure your ability to meet the qualifications. The course consists of 4 phases.  Phase 1 is Initial Qualification Training (IQT).  This phase ensures you are familiar with the A-10C aircraft systems and instruments. If not, please read the A-10C Flight Manual before continuing. Phase 2 is Basic Aircraft Qualification (BAQ). This phase tests your ability to fly the aircraft successfully. Phase 3 is Basic Mission Capable (BMC). This phases tests your ability to use the aircraft weapons systems successfully. Phase 4 is Combat Mission Ready (CMR). This phase tests your ability to work in a variety of combat roles including working with JTACs and Airborne FACs and performing CAS, CSAR, SEAD and other related mission types.",
+            "description" : "The goal of the A-10C Pilot Qualification Course is to prepare Cadets for combat operations flying the aircraft in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that measure your ability to meet the qualifications. The course consists of 4 phases.  Phase 1 is Initial Qualification Training (IQT).  This phase ensures you are familiar with the aircraft systems and instruments. If not, please read the aircraft Flight Manual before continuing. Phase 2 is Basic Aircraft Qualification (BAQ). This phase tests your ability to fly the aircraft successfully. Phase 3 is Basic Mission Capable (BMC). This phases tests your ability to use the aircraft weapons systems successfully. Phase 4 is Combat Mission Ready (CMR). This phase tests your ability to work in a variety of combat roles including working with JTACs and Airborne FACs and performing CAS, CSAR, SEAD and other related mission types.",
             //"price"       : "",
             //"paypal"      : "",
             "packages"    :
@@ -197,8 +197,8 @@ var missions =
             },
             {
             "name"        : "[BMC] Basic Mission Capable",
-            "description": "The goal of the A-10C Pilot Qualification Course is to prepare Cadets for combat operations flying the A-10C in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that measure your ability to meet the qualifications. The course consists of 4 phases.  Phase 1 is Initial Qualification Training (IQT).  This phase ensures you are familiar with the A-10C aircraft systems and instruments. If not, please read the A-10C Flight Manual before continuing. Phase 2 is Basic Aircraft Qualification (BAQ). This phase tests your ability to fly the aircraft successfully. Phase 3 is Basic Mission Capable (BMC). This phases tests your ability to use the aircraft weapons systems successfully. Phase 4 is Combat Mission Ready (CMR). This phase tests your ability to work in a variety of combat roles including working with JTACs and Airborne FACs and performing CAS, CSAR, SEAD and other related mission types.",
-            "price": "$4.99",
+            "description" : "The goal of the A-10C Pilot Qualification Course is to prepare Cadets for combat operations flying the aircraft in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that measure your ability to meet the qualifications. The course consists of 4 phases.  Phase 1 is Initial Qualification Training (IQT).  This phase ensures you are familiar with the aircraft systems and instruments. If not, please read the aircraft Flight Manual before continuing. Phase 2 is Basic Aircraft Qualification (BAQ). This phase tests your ability to fly the aircraft successfully. Phase 3 is Basic Mission Capable (BMC). This phases tests your ability to use the aircraft weapons systems successfully. Phase 4 is Combat Mission Ready (CMR). This phase tests your ability to work in a variety of combat roles including working with JTACs and Airborne FACs and performing CAS, CSAR, SEAD and other related mission types.",
+            "price"       : "$9.99 USD",
             "paypal"      : "3RSKWFEHQXZWS",
             "packages"    :
                 [
@@ -246,8 +246,8 @@ var missions =
             },
             {
             "name"        : "[CMR] Combat Mission Ready",
-            "description": "The goal of the A-10C Pilot Qualification Course is to prepare Cadets for combat operations flying the A-10C in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that measure your ability to meet the qualifications. The course consists of 4 phases.  Phase 1 is Initial Qualification Training (IQT).  This phase ensures you are familiar with the A-10C aircraft systems and instruments. If not, please read the A-10C Flight Manual before continuing. Phase 2 is Basic Aircraft Qualification (BAQ). This phase tests your ability to fly the aircraft successfully. Phase 3 is Basic Mission Capable (BMC). This phases tests your ability to use the aircraft weapons systems successfully. Phase 4 is Combat Mission Ready (CMR). This phase tests your ability to work in a variety of combat roles including working with JTACs and Airborne FACs and performing CAS, CSAR, SEAD and other related mission types.",
-            "price": "$4.99",
+            "description": "The goal of the A-10C Pilot Qualification Course is to prepare Cadets for combat operations flying the aircraft in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that measure your ability to meet the qualifications. The course consists of 4 phases.  Phase 1 is Initial Qualification Training (IQT).  This phase ensures you are familiar with the aircraft systems and instruments. If not, please read the aircraft Flight Manual before continuing. Phase 2 is Basic Aircraft Qualification (BAQ). This phase tests your ability to fly the aircraft successfully. Phase 3 is Basic Mission Capable (BMC). This phases tests your ability to use the aircraft weapons systems successfully. Phase 4 is Combat Mission Ready (CMR). This phase tests your ability to work in a variety of combat roles including working with JTACs and Airborne FACs and performing CAS, CSAR, SEAD and other related mission types.",
+            "price": "$9.99 USD",
             "paypal"      : "RXRGHJM9QUVLU",
             "packages"    :
                 [
@@ -313,7 +313,7 @@ var missions =
             "name"        : "[AFT01] Air to Air Refueling Day",
             "description" : "AFT01 - Air to Air Refueling Day is the first mission of the Advanced Aircraft Training Qualification Course for the A/OA-10C. This single player mission can be launched directly from the Missions menu and is identical to the first mission in the Advanced Aircraft Training Qualification Campaign.",
             "image"       : "aft01.jpg",
-            "price"       : "$0.99",
+            "price"       : "$0.99 USD",
             "paypal"      : "X8D3QKBHFJYTG",
             "file"        : "DCSWA10C_AFT01",
             "updated"     : "14-07-2015",
@@ -324,7 +324,7 @@ var missions =
             "name"        : "[AFT02] Air to Air Refueling Night",
             "description" : "AFT02 - Air to Air Refueling Night is the second mission of the Advanced Aircraft Training Qualification Course for the A/OA-10C. This single player mission can be launched directly from the Missions menu and is identical to the second mission in the Advanced Aircraft Training Qualification Campaign.",
             "image"       : "aft02.jpg",
-            "price"       : "$0.99",
+            "price"       : "$0.99 USD",
             "paypal"      : "DBXUZHD8HG9JG",
             "file"        : "DCSWA10C_AFT02",
             "updated"     : "14-07-2015",
@@ -335,7 +335,7 @@ var missions =
             "name"        : "[AFT03] Countermeasures and Threat Avoidance",
             "description" : "AFT03 - Countermeasures and Threat Avoidance is the third mission of the Advanced Aircraft Training Qualification Course for the A/OA-10C. This single player mission can be launched directly from the Missions menu and is identical to the third mission in the Advanced Aircraft Training Qualification Campaign.",
             "image"       : "aft03.jpg",
-            "price"       : "$0.99",
+            "price"       : "$0.99 USD ",
             "paypal"      : "YT2D8LYKWAXVW",
             "file"        : "DCSWA10C_AFT03",
             "updated"     : "14-07-2015",
@@ -351,9 +351,9 @@ var missions =
         "campaigns"   :
             [
             {
-            "name"        : "[BFT] Basic Flight Training Qualification",
-            "description": "The goal of the F-15C Pilot Qualification Course is to prepare Cadets for combat operations flying the F-15C in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO. Your campaign mission key will unlock the packages below.",
-            "price"       : "$4.99",
+            "name"        : "[BAQ] Basic Aircraft Qualification",
+            "description" : "The goal of the F-15C Pilot Qualification Course is to prepare Cadets for combat operations flying the aircraft in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that measure your ability to meet the qualifications. The course consists of 4 phases.  Phase 1 is Initial Qualification Training (IQT).  This phase ensures you are familiar with the aircraft systems and instruments. If not, please read the aircraft Flight Manual before continuing. Phase 2 is Basic Aircraft Qualification (BAQ). This phase tests your ability to fly the aircraft successfully. Phase 3 is Basic Mission Capable (BMC). This phases tests your ability to use the aircraft weapons systems successfully. Phase 4 is Combat Mission Ready (CMR). This phase tests your ability to execute a variety of combat missions including CAS, FAC, OCA, DCA, BARCAP, HVACAP, RESCAP, INTERCEPT, SWEEP, ESCORT, RECON, and BDA.",
+            "price"       : "$9.99 USD",
             "paypal"      : "Y5SVGVYTKC5NW",
             "packages"    :
                 [
@@ -393,7 +393,7 @@ var missions =
             "name"        : "First Kill",
             "description" : "Single Mission simulating the first in service kill for the F-15 Eagle. Includes in-air, ramp and runway starts.",
             "image"       : "fkill.jpg",
-            "price"       : "$0.99",
+            "price"       : "$0.99 USD",
             "paypal"      : "6T753S4GCDEQ8",
             "file"        : "FC3_F1501",
             "updated"     : "05-02-15",
@@ -409,9 +409,9 @@ var missions =
         "campaigns"   :
             [
             {
-            "name"        : "[BFT] Basic Flight Training Qualification",
-            "description": "The goal of the Su-27 Pilot Qualification Course is to prepare Cadets for combat operations flying the Su-27 in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO.  Your campaign mission key will unlock the packages below.",
-            "price"       : "$4.99",
+            "name"        : "[BAQ] Basic Aircraft Qualification",
+            "description" : "The goal of the Su-27 Pilot Qualification Course is to prepare Cadets for combat operations flying the aircraft in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that measure your ability to meet the qualifications. The course consists of 4 phases.  Phase 1 is Initial Qualification Training (IQT).  This phase ensures you are familiar with the aircraft systems and instruments. If not, please read the aircraft Flight Manual before continuing. Phase 2 is Basic Aircraft Qualification (BAQ). This phase tests your ability to fly the aircraft successfully. Phase 3 is Basic Mission Capable (BMC). This phases tests your ability to use the aircraft weapons systems successfully. Phase 4 is Combat Mission Ready (CMR). This phase tests your ability to execute a variety of combat missions including CAS, FAC, OCA, DCA, BARCAP, HVACAP, RESCAP, INTERCEPT, SWEEP, ESCORT, RECON, and BDA.",
+            "price"       : "$9.99 USD",
             "paypal"      : "ZF9GDMWX8FVAU",
             "packages"    :
                 [
@@ -453,11 +453,11 @@ var missions =
             "campaigns":
                 [
                 {
-                    "name": "[BFT] Basic Flight Training Qualification",
-                    "description": "The goal of the Su-33 Pilot Qualification Course is to prepare Cadets for combat operations flying the Su-33 in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO.  Your campaign mission key will unlock the packages below.",
-                    "price": "",
-                    "paypal": "",
-                    "link": "https://www.digitalcombatsimulator.com/en/files/1507813/",
+                    "name"       : "[BAQ] Basic Aircraft Qualification",
+                    "description": "The goal of the Su-33 Pilot Qualification Course is to prepare Cadets for combat operations flying the aircraft in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that measure your ability to meet the qualifications. The course consists of 4 phases.  Phase 1 is Initial Qualification Training (IQT).  This phase ensures you are familiar with the aircraft systems and instruments. If not, please read the aircraft Flight Manual before continuing. Phase 2 is Basic Aircraft Qualification (BAQ). This phase tests your ability to fly the aircraft successfully. Phase 3 is Basic Mission Capable (BMC). This phases tests your ability to use the aircraft weapons systems successfully. Phase 4 is Combat Mission Ready (CMR). This phase tests your ability to execute a variety of combat missions including CAS, FAC, OCA, DCA, BARCAP, HVACAP, RESCAP, INTERCEPT, SWEEP, ESCORT, RECON, and BDA.",
+                    "price"      : "",
+                    "paypal"     : "",
+                    "link"       : "",
                     "packages":
                         [
                         {
@@ -498,9 +498,9 @@ var missions =
         "campaigns"   :
             [
             {
-            "name"        : "[BFT] Basic Flight Training Qualification",
-            "description": "The goal of the MiG-29 Pilot Qualification Course is to prepare Cadets for combat operations flying the MiG-29 in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO.  Your campaign mission key will unlock the packages below.",
-            "price"       : "$4.99",
+            "name"        : "[BAQ] Basic Aircraft Qualification",
+            "description" : "The goal of the MiG-29 Pilot Qualification Course is to prepare Cadets for combat operations flying the aircraft in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that measure your ability to meet the qualifications. The course consists of 4 phases.  Phase 1 is Initial Qualification Training (IQT).  This phase ensures you are familiar with the aircraft systems and instruments. If not, please read the aircraft Flight Manual before continuing. Phase 2 is Basic Aircraft Qualification (BAQ). This phase tests your ability to fly the aircraft successfully. Phase 3 is Basic Mission Capable (BMC). This phases tests your ability to use the aircraft weapons systems successfully. Phase 4 is Combat Mission Ready (CMR). This phase tests your ability to execute a variety of combat missions including CAS, FAC, OCA, DCA, BARCAP, HVACAP, RESCAP, INTERCEPT, SWEEP, ESCORT, RECON, and BDA.",
+            "price"       : "$9.99 USD",
             "paypal"      : "YWM3FA438SP3L",
             "packages"    :
                 [
@@ -596,7 +596,7 @@ var missions =
             "name"        : "[ITT01] Interactive Startup Trainer Tester",
             "description" : "Single Mission where an Instructor Pilot (IP) calls out checklist items and you have 10 seconds to locate the item to score. If you miss an item the IP will highlight it for you but it will cost you in scoring.",
             "image"       : "itt01.jpg",
-            "price"       : "$0.99",
+            "price"       : "$0.99 USD",
             "paypal"      : "77PK5QBAW9XRE",
             "file"        : "DCSWBS2_ITT01",
             "updated"     : "05-01-12",
@@ -607,7 +607,7 @@ var missions =
             "name"        : "[ITT02] Interactive Shutdown Trainer Tester",
             "description" : "Single Mission where an Instructor Pilot (IP) calls out checklist items and you have 10 seconds to locate the item to score. If you miss an item the IP will highlight it for you but it will cost you in scoring.",
             "image"       : "itt02.jpg",
-            "price"       : "$0.99",
+            "price"       : "$0.99 USD",
             "paypal"      : "YJSZDSC2WT28E",
             "file"        : "DCSWBS2_ITT02",
             "updated"     : "06-04-12",
@@ -618,7 +618,7 @@ var missions =
             "name"        : "[BFT01] Ground Taxi",
             "description" : "BFT01 - Ground Taxi is the first mission of the Basic Flight Training Qualification Course for the Ka-50 BlackShark. You will perform an engine startup, follow the Flight Examiner with a ground taxi and then shutdown.",
             "image"       : "bft01.jpg",
-            "price"       : "$0.99",
+            "price"       : "$0.99 USD",
             "paypal"      : "CWBS32ELR5PBJ",
             "file"        : "DCSWBS2_BFT01",
             "updated"     : "06-04-12",
@@ -629,7 +629,7 @@ var missions =
             "name"        : "[BFT02] Hovering Flight",
             "description" : "BFT02 - Hovering Flight is the second mission of the Basic Flight Training Qualification Course for the Ka-50 BlackShark. You will perform an engine startup, Hover Check, then a Hovering Flight.",
             "image"       : "bft02.jpg",
-            "price"       : "$0.99",
+            "price"       : "$0.99 USD",
             "paypal"      : "MR89E4K5WCECY",
             "file"        : "DCSWBS2_BFT02",
             "updated"     : "26-08-12",
@@ -734,7 +734,7 @@ var missions =
             {
             "name"        : "[BVT] Basic Vehicle Training Qualification",
             "description": "The goal of the M1A2 Qualification Course is to prepare soldiers for combat operations with the M1A2 in a number of mission roles. Commanders require soldiers with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO.  Your campaign mission key will unlock the packages below.",
-            "price"       : "$4.99",
+            "price"       : "$9.99 USD",
             "paypal"      : "BZHLHT6XSM89S",
             "packages"    :
                 [
@@ -778,7 +778,7 @@ var missions =
             {
             "name"        : "[BVT] Basic Vehicle Training Qualification",
             "description": "The goal of the Challenger 2 Qualification Course is to prepare soldiers for combat operations with the Challenger 2 in a number of mission roles. Commanders require soldiers with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO.  Your campaign mission key will unlock the packages below.",
-            "price"       : "$4.99",
+            "price"       : "$9.99 USD",
             "paypal"      : "6NVMT96M4XZTG",
             "packages"    :
                 [
@@ -822,7 +822,7 @@ var missions =
                 {
                     "name": "[BVT] Basic Vehicle Training Qualification",
                     "description": "The goal of the Leopard 2 Qualification Course is to prepare soldiers for combat operations with the Leopard 2 in a number of mission roles. Commanders require soldiers with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that must be met to pass the course. Performance Checks (PCs) will be used to determine if you have met the requirements of the PO.  Your campaign mission key will unlock the packages below.",
-                    "price": "$4.99",
+                    "price": "$9.99 USD",
                     "paypal": "8JQAKWTX6TER4",
                     "packages":
                         [
