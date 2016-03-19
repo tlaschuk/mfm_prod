@@ -40,6 +40,10 @@ var faq =
         "answer": "You need both a System Unique ID and a Mission Key to unlock the \"Pay to Play\" missions. You can obtain both from the request a license page <a href=\"/license\" target=\"_blank\">here</a>."
         },
         {
+        "question": "Can I transfer my purchase if or when your campaigns end up on the ED Store?",
+        "answer": "Unfortuantely no. You would have to decide to purchase the campaign again if you wanted to use ED's distribution method.  We will support our mission key distribution method for a period of 1 year once the campaign transitions to being sold off of EDs Store."
+        },
+        {
         "question" : "Why such a complicated key scheme?",
         "answer"   : "This is a requirement from TFC/ED for paid content. Free content is not wrapped in an installer and can simply be downloaded and installed as is."
         },
