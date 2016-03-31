@@ -25,7 +25,7 @@ var faq =
       //  },
         {
         "question" : "My SUID has changed, can I get new Mission Keys to match?",
-        "answer"   : "Yes until March 20th, 2017.  After that we will only support the DCS E-store versions. Email us the new SUID and we will generate new Mission Keys for you. Requests are monitored and if signs of abuse are detected we reserve the right to disallow future Mission Key generation."
+        "answer"   : "Yes until one year after the MapleFlagMissions campaign is available from the ED store. For the A-10C BFT Campaign that is until March 20th, 2017.  After that we will only support the DCS E-store versions. Email us the new SUID and we will generate new Mission Keys for you. Requests are monitored and if signs of abuse are detected we reserve the right to disallow future Mission Key generation."
         },
         {
         "question" : "How do I un-install these missions?",
