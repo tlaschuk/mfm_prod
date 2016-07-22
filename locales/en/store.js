@@ -3,7 +3,7 @@ var store =
     "page"    : "Maple Flag Missions STORE",
     "content" :
         {
-          "vr_gear":
+          "vrgear":
             [
             {
             "link": "https://vrcover.com/?itm=98/",

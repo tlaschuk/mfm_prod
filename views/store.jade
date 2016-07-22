@@ -9,10 +9,11 @@ block js
 block content
   group
     .group_title
-      p= "vr_gear"
-    .group_content#group_vr_gear
-      each vr_gear in content.vr_gear
-        a(href=vr_gear.link target="_blank" style={"background-image" : "url(\"../../images/store/vr_gear/#{vr_gear.image}\")"})
+      p= "vrgear"
+    .group_content#group_vrgear
+      each vrgear in content.vrgear
+        a(href=vrgear.link target="_blank" style={"background-image" : "url(\"../../images/store/vrgear/#{vrgear.image}\")"})
+  group
     .group_title
       p= "magazines"
     .group_content#group_magazines
