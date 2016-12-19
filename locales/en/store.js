@@ -125,6 +125,14 @@ var store =
             {
             "link"  : "http://www.cafepress.com/MapleFlagMissions/12994736",
             "image" : "bf109.jpg"
+            },
+            {
+            "link"  : "http://www.cafepress.com/mapleflagmissions/13810346",
+            "image" : "f5e.jpg"
+            },
+            {
+            "link"  : "http://www.cafepress.com/mapleflagmissions/13865587",
+            "image" : "mig21.jpg"
             }
             ]
         }

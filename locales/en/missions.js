@@ -1,4 +1,4 @@
-var missions =
+﻿var missions =
     {
     "page"    : "Maple Flag Missions MISSIONS",
     "sidebar" :
@@ -14,6 +14,10 @@ var missions =
             {
             "name" : "A-10C warthog",
             "type" : "ground"
+            },
+            {
+            "name" : "F-5e tiger",
+            "type" : "air"
             },
             {
             "name" : "F-15C eagle",
@@ -196,7 +200,7 @@ var missions =
                 ]
             },
             {
-                "name": "[BMC] Basic Mission Capable - This Campaign is no longer for Sale.",
+                "name": "[BMC] Basic Mission Capable - For Sale on the ED Store",
             "description" : "The goal of the A-10C Pilot Qualification Course is to prepare Cadets for combat operations flying the aircraft in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that measure your ability to meet the qualifications. The course consists of 4 phases.  Phase 1 is Initial Qualification Training (IQT).  This phase ensures you are familiar with the aircraft systems and instruments. If not, please read the aircraft Flight Manual before continuing. Phase 2 is Basic Aircraft Qualification (BAQ). This phase tests your ability to fly the aircraft successfully. Phase 3 is Basic Mission Capable (BMC). This phases tests your ability to use the aircraft weapons systems successfully. Phase 4 is Combat Mission Ready (CMR). This phase tests your ability to work in a variety of combat roles including working with JTACs and Airborne FACs and performing CAS, CSAR, SEAD and other related mission types.",
             //"price"       : "$9.99 USD",
             //"paypal"      : "3RSKWFEHQXZWS",
@@ -206,42 +210,42 @@ var missions =
                 "name"        : "Advanced Aircraft Training [AAT] Qualification Campaign",
                 "description" : "A 10 mission campaign that tests your ability to qualify for flying the A-10C Warthog. You need both Part A and Part B to play this campaign. Includes printable A-10C Amplified Checklist pdf in A5 format.",
                 "image"       : "aatc.jpg",
-                "file"        : "DCSWA10C_CMP02A",
+                //"file"        : "DCSWA10C_CMP02A",
                 //"updated"     : "28-06-2015",
-                "link"        : "https://www.digitalcombatsimulator.com/en/files/250298/",
+                "link"        : "https://www.digitalcombatsimulator.com/en/shop/campaigns/advanced_aircraft_training_qualification_campaign/",
                 //"size"        : "48.93 MB",
-                "file2"       : "DCSWA10C_CMP02B",
+                //"file2"       : "DCSWA10C_CMP02B",
                 //"updated2"    : "28-06-2015",
-                "link2"       : "https://www.digitalcombatsimulator.com/en/files/250299/",
+                //"link2"       : "https://www.digitalcombatsimulator.com/en/files/250299/",
                 //"size2"       : "61.06 MB"
                 },
-                {
-                "name"        : "Practice",
-                "description" : "10 Single Player Practice Missions for the popular A-10C Advanced Aircraft Training Qualification Campaign. They feature additional training dialogue and in-air starts. Your mission key for the campaign will unlock the single mission package.",
-                "image"       : "aatt.jpg",
-                "file"        : "DCSWA10C_PCMP02",
+                //{
+                //"name"        : "Practice",
+                //"description" : "10 Single Player Practice Missions for the popular A-10C Advanced Aircraft Training Qualification Campaign. They feature additional training dialogue and in-air starts. Your mission key for the campaign will unlock the single mission package.",
+                //"image"       : "aatt.jpg",
+                //"file"        : "DCSWA10C_PCMP02",
                 //"updated"     : "20-05-2015",
-                "link"        : "https://www.digitalcombatsimulator.com/en/files/421093/",
+                //"link"        : "https://www.digitalcombatsimulator.com/en/files/421093/",
                 //"size"        : "21.39 MB"
-                },
-                {
-                "name"        : "Documentation",
-                "description" : "A documentation package for the popular A-10C Advanced Aircraft Training Qualification Campaign. This documentation package includes Mission Data Cards, Maps and Diagrams for all 10 missions of the campaign. They are in A5 format. Printable and sized to fit your kneeboard. Your mission key for the campaign will unlock the documentation package.",
-                "image"       : "aatd.jpg",
-                "file"        : "DCSWA10C_CMPDOC02",
+                //},
+                //{
+                //"name"        : "Documentation",
+                //"description" : "A documentation package for the popular A-10C Advanced Aircraft Training Qualification Campaign. This documentation package includes Mission Data Cards, Maps and Diagrams for all 10 missions of the campaign. They are in A5 format. Printable and sized to fit your kneeboard. Your mission key for the campaign will unlock the documentation package.",
+                //"image"       : "aatd.jpg",
+                //"file"        : "DCSWA10C_CMPDOC02",
                 //"updated"     : "14-07-2015 ",
-                "link"        : "https://www.digitalcombatsimulator.com/en/files/250470/",
+                //"link"        : "https://www.digitalcombatsimulator.com/en/files/250470/",
                 //"size"        : "2.01 MB"
-                },
-                {
-                "name"        : "Badges",
-                "description" : "This documentation package includes User Bars, Badges and certificates. They are in jpeg format for easy printing or including in your Forum signature. Your mission key for the campaign will unlock the documentation package.",
-                "image"       : "aatb.jpg",
-                "file"        : "DCSWA10C_CMPDOC04",
+                //},
+                //{
+                //"name"        : "Badges",
+                //"description" : "This documentation package includes User Bars, Badges and certificates. They are in jpeg format for easy printing or including in your Forum signature. Your mission key for the campaign will unlock the documentation package.",
+                //"image"       : "aatb.jpg",
+                //"file"        : "DCSWA10C_CMPDOC04",
                 //"updated"     : "14-07-2015",
-                "link"        : "https://www.digitalcombatsimulator.com/en/files/421091/",
+                //"link"        : "https://www.digitalcombatsimulator.com/en/files/421091/",
                 //"size"        : "1.07 MB"
-                }
+                //}
                 ]
             },
             {
@@ -285,8 +289,8 @@ var missions =
                 ]
             }
             ],
-        "single"      :
-            [
+        //"single"      :
+            //[
            // {
            // "name"        : "[ITT01] Interactive Startup Trainer Tester",
            // "description" : "Single Mission where an Instructor Pilot (IP) calls out checklist items and you have 10 seconds to locate the item to score. If you miss an item the IP will highlight it for you but it will effect you in scoring.",
@@ -342,6 +346,27 @@ var missions =
            // "link"        : "https://www.digitalcombatsimulator.com/en/files/214774/",
            // "size"        : "10.09 MB"
            // }
+            //]
+        },
+        {
+        "aircraft"    : "F-5E tiger II",
+        "description" : " The F-5 Tiger II, a single-seat twin-engined supersonic fighter aircraft, was developed by Northrop Grumman, US. The aircraft took its maiden flight on 11 August 1972 and entered into service in 1975. It is the upgraded version of the F-5A Freedom fighter aircraft developed by Northrop Grumman in early 1959.",
+        "image"       : "f5e",
+        "campaigns"      :
+            [
+            {
+            "name"        : "[BFM] Basic Fighter Maneuvers - For Sale on the ED Store",
+            "description" : "The F-5E BFM campaign puts you in the cockpit of an F-5E TIger II, as a new Aggressor pilot with the 65th Aggressor Squadron at Nellis Air Force Base.",
+            "packages"    :
+            [
+            {
+            "name"        : "Basic Fighter Maneuvers",
+            "description" : "Upon arrival you will fly a familiarization flight around the Nevada Test and Training Range (NTTR). Then you will face a series of challenging Basic Fighter Maneuver (BFM) missions against similar and dis-similar aircraft. Your opponents include the F-4E, F-5E, F-14A, F-15C, F-16C, F/A-18C, M-2000C, MiG-29G, CF-188 and MiG-21.",
+            "image"       : "f5ebfm.jpg",
+            "link"        : "https://www.digitalcombatsimulator.com/en/shop/campaigns/f-5e_abfm_campaign/",
+            }
+            ]
+            }
             ]
         },
         {
