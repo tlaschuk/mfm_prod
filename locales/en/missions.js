@@ -16,7 +16,7 @@
             "type" : "ground"
             },
             {
-            "name" : "F-5e tiger",
+            "name" : "F-5E Tiger II",
             "type" : "air"
             },
             {
@@ -349,7 +349,7 @@
             //]
         },
         {
-        "aircraft"    : "F-5E tiger II",
+        "aircraft"    : "F-5E Tiger II",
         "description" : " The F-5 Tiger II, a single-seat twin-engined supersonic fighter aircraft, was developed by Northrop Grumman, US. The aircraft took its maiden flight on 11 August 1972 and entered into service in 1975. It is the upgraded version of the F-5A Freedom fighter aircraft developed by Northrop Grumman in early 1959.",
         "image"       : "f5e",
         "campaigns"      :
