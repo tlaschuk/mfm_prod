@@ -388,6 +388,19 @@
         "image"       : "f15c",
         "campaigns"   :
             [
+                {
+                    "name"        : "[BFM] Basic Fighter Maneuvers - For Sale on the ED Store",
+                    "description" : "The F-15C BFM campaign puts you in the cockpit of an F-15C Eagle, as a new Aggressor pilot with the 65th Aggressor Squadron at Nellis Air Force Base.",
+                    "packages"    :
+                    [
+                    {
+                    "name"        : "Basic Fighter Maneuvers",
+                    "description" : "Upon arrival you will fly a familiarization flight around the Nevada Test and Training Range (NTTR). Then you will face a series of challenging Basic Fighter Maneuver (BFM) 1 vs 1 Guns Only missions against similar and dis-similar aircraft. Your opponents include the F-4E, F-14A, F-15C, F-15E, F-16C, F/A-18C, M-2000C, MiG-29G, CF-188 and MiG-21. Additionally 10 single player practice missions are included so you can perfect your Tactics, Techniques and Procedures.",
+                    "image"       : "f15cbfm.jpg",
+                    "link"        : "https://www.digitalcombatsimulator.com/en/shop/campaigns/f-15c_aggressors_bfm_campaign/",
+                    }
+                    ]
+                    },
             {
                 "name": "[BAQ] Basic Aircraft Qualification - Not For Sale. Being Migrated to ED Store.",
             "description" : "The goal of the F-15C Pilot Qualification Course is to prepare Cadets for combat operations flying the aircraft in a number of mission roles. Commanders require pilots with the skills and training necessary to be successful on the battlefield. Each Phase of training will contain individual Performance Objectives (POs) that measure your ability to meet the qualifications. The course consists of 4 phases.  Phase 1 is Initial Qualification Training (IQT).  This phase ensures you are familiar with the aircraft systems and instruments. If not, please read the aircraft Flight Manual before continuing. Phase 2 is Basic Aircraft Qualification (BAQ). This phase tests your ability to fly the aircraft successfully. Phase 3 is Basic Mission Capable (BMC). This phases tests your ability to use the aircraft weapons systems successfully. Phase 4 is Combat Mission Ready (CMR). This phase tests your ability to execute a variety of combat missions including CAS, FAC, OCA, DCA, BARCAP, HVACAP, RESCAP, INTERCEPT, SWEEP, ESCORT, RECON, and BDA.",
