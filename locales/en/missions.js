@@ -24,6 +24,10 @@
             "type" : "air"
             },
             {
+            "name" : "FA-18C hornet",
+            "type" : "air"
+            },
+            {
             "name" : "Su-27 flanker",
             "type" : "air"
             },
@@ -452,6 +456,27 @@
            // "size"        : "7.50 MB"
             }
             ]
+        },
+        {
+            "aircraft"    : "FA-18C hornet",
+            "description" : "The McDonnell Douglas F/A-18 Hornet is a twin-engine, supersonic, all-weather, carrier-capable, multirole combat jet, designed as both a fighter and attack aircraft (hence the F/A designation). The F/A-18 has a top speed of Mach 1.8 (1,034 knots, 1,190 mph or 1,915 km/h at 40,000 ft or 12,200 m). It can carry a wide variety of bombs and missiles, including air-to-air and air-to-ground, supplemented by the 20-mm M61 Vulcan cannon. It is powered by two General Electric F404 turbofan engines, which give the aircraft a high thrust-to-weight ratio. The F/A-18 has excellent aerodynamic characteristics, primarily attributed to its leading-edge extensions. The fighter's primary missions are fighter escort, fleet air defense, suppression of enemy air defenses, air interdiction, close air support, and aerial reconnaissance.",
+            "image"       : "fa18c",
+            "campaigns"   :
+                [
+                    {
+                        "name"        : "[BFM] Basic Fighter Maneuvers - For Sale on the ED Store",
+                        "description" : "The FA-18C Aggressors BFM campaign puts you in the cockpit of an FA-18C Hornet, as a new Aggressor pilot with VFC-12 the Fighting Omars on loan to the 65th Aggressor Squadron at Nellis Air Force Base.",
+                        "packages"    :
+                        [
+                        {
+                        "name"        : "Basic Fighter Maneuvers",
+                        "description" : "Upon arrival you will fly a familiarization flight around the Nevada Test and Training Range (NTTR). Then you will face a series of challenging Basic Fighter Maneuver (BFM) 1 vs 1 Guns Only missions against similar and dis-similar aircraft. Your opponents include the F-4E, F-5E, F-14A, F-15C, F-15E, F-16C, F/A-18C, M-2000C, MiG-29G, CF-188, MiG-21 and Su-27.  Additionally there are 12 single player practice missions with in-air starts so you can perfect your BFM tactics, techniques and procedures.",
+                        "image"       : "fa18cbfm.jpg",
+                        "link"        : "https://www.digitalcombatsimulator.com/en/products/campaigns/fa-18c_aggressors_bfm_campaign/",
+                        }
+                        ]
+                    }
+                ]
         },
         {
         "aircraft"    : "Su-27 flanker",
