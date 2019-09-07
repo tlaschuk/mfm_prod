@@ -15,6 +15,10 @@ var store =
             {
                 "link": "http://www.combataircraft.net/",
                 "image": "cam.jpg"
+            },
+            {
+                "link": "https://hachettepartworks.com/air-power-bookazines",
+                "image": "bookazine.jpg"
             }
             ],
         "modules"     :
@@ -185,6 +189,10 @@ var store =
             {
                 "link"  : "https://sierrahotel.net/collections/aviation-decals/products/mig-kill-marking",
                 "image" : "mig_kill.jpg"
+            },
+            {
+                "link"  : "https://www.dogfightboss.com",
+                "image" : "dfboss.jpg"
             }
             ]
         }
