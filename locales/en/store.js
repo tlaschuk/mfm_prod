@@ -8,6 +8,14 @@ var store =
             {
                 "link": "https://vrcover.com/?itm=98/",
                 "image": "rift_cover.jpg"
+            },
+            {
+                "link": "https://vrcover.com/?itm=98/",
+                "image": "rifts_cover.jpg"
+            },
+            {
+                "link": "https://vrcover.com/?itm=98/",
+                "image": "valve_index.jpg"
             }
             ],
          "magazines"   :
@@ -15,6 +23,14 @@ var store =
             {
                 "link": "http://www.combataircraft.net/",
                 "image": "cam.jpg"
+            },
+            {
+                "link": "https://airforcesmonthly.keypublishing.com/",
+                "image": "afm.jpg"
+            },
+            {
+                "link": "https://aviation-news.keypublishing.com/",
+                "image": "avn.jpg"
             },
             {
                 "link": "https://hachettepartworks.com/air-power-bookazines",
