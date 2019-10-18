@@ -33,6 +33,10 @@ var store =
                 "image": "avn.jpg"
             },
             {
+                "link": "https://pcpilot.keypublishing.com/",
+                "image": "pcp.jpg"
+            },
+            {
                 "link": "https://hachettepartworks.com/air-power-bookazines",
                 "image": "bookazine.jpg"
             },
