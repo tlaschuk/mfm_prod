@@ -51,6 +51,10 @@ var store =
             {
                 "link": "https://shop.keypublishing.com/product/View/productCode/SPECLOB/Luftwaffe%20Over%20Britain?dm_i=4JU,6IAYS,LG9BPP,PUEH9,1",
                 "image": "speclob.jpg"
+            },
+            {
+                "link": "https://shop.keypublishing.com/product/View/productCode/SPECHELL/Pacific%20Hell",
+                "image": "spechell.jpg"
             }
             ],
         "modules"     :
