@@ -45,8 +45,8 @@ var store =
                 "image": "bookazine.jpg"
             },
             {
-                "link": "https://shop.keypublishing.com/product/View/productCode/SPECDAIR/D-Day%20in%20the%20Air",
-                "image": "specdair.jpg"
+                "link": "https://shop.keypublishing.com/subscription/view/publication/AM",
+                "image": "am.jpg"
             },
             {
                 "link": "https://shop.keypublishing.com/product/View/productCode/SPECLOB/Luftwaffe%20Over%20Britain?dm_i=4JU,6IAYS,LG9BPP,PUEH9,1",
