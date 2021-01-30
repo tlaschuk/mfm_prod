@@ -41,7 +41,7 @@ var store =
                 "image": "pcp.jpg"
             },
             {
-                "link": "https://hachettepartworks.com/air-power-bookazines",
+                "link": "https://shop.keypublishing.com/product/View/productCode/SPECVIETRP/REPRINT%20Vietnam%20-%20The%20Air%20War%20over%20South-East%20Asia",
                 "image": "bookazine.jpg"
             },
             {
@@ -49,7 +49,7 @@ var store =
                 "image": "am.jpg"
             },
             {
-                "link": "https://shop.keypublishing.com/product/View/productCode/SPECLOB/Luftwaffe%20Over%20Britain?dm_i=4JU,6IAYS,LG9BPP,PUEH9,1",
+                "link": "https://shop.keypublishing.com/product/View/productCode/SPECF14/F-14%20Tomcat,%20The%20real%20star%20of%20TOPGUN",
                 "image": "speclob.jpg"
             },
             {
